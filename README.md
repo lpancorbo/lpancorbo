@@ -7,7 +7,7 @@ I am a Biomedical Engineering Master's Student at ETH Zürich fully funded by ["
 - ❤️ Undergraduate Researcher at **EP Analytics Lab** (Polytechnic University of Valencia), developing a metric to quantify the heterogeneity of electrical propagation in cardiac tissue (MATLAB).
 
 ## 🌱 Projects
-- [Vector Field Heterogeneity (VFH) metric from omnipolar electrograms in high-density catheters](https://github.com/SamuelRuiperezCampillo/L_Pancorbo_S_Ruiperez-Campillo_et_al_IEEE-OJEMB_2024_HVF)
+- [Vector Field Heterogeneity (VFH) metric from omnipolar electrograms in high-density catheters](https://github.com/lpancorbo/L_Pancorbo_S_Ruiperez-Campillo_et_al_IEEE-OJEMB_2024_HVF)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/lucia-pancorbo/)
