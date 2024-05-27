@@ -8,6 +8,7 @@ I am a Biomedical Engineering Master's Student at ETH Zürich fully funded by ["
 
 ## 🌱 Projects
 - [Vector Field Heterogeneity (VFH) metric from omnipolar electrograms in high-density catheters](https://github.com/lpancorbo/L_Pancorbo_S_Ruiperez-Campillo_et_al_IEEE-OJEMB_2024_HVF)
+- [Automatic Segmentation of Ventricular Volumes from Cardiac Optoacoustic Data](https://github.com/lpancorbo/L_Pancorbo_Automatic_Segmentation_of_Ventricular_Volumes_from_Cardiac_Optoacoustic_Data)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/lucia-pancorbo/)
