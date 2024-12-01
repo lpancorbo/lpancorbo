@@ -13,4 +13,5 @@ I am a Biomedical Engineering Master's Student at ETH Zürich fully funded by ["
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/lucia-pancorbo/)
-- [lpancorbo@ethz.ch](mailto:lpancorbo@student.ethz.ch)
+- [Google Scholar](https://scholar.google.com/citations?user=kPDm7IoAAAAJ&hl=es&oi=ao)
+- [lpancorbo@ethz.ch](mailto:lpancorbo@student.ethz.ch) | [lpancorbofernandez@bwh.harvard.edu](mailto:lpancorbofernandez@bwh.harvard.edu)
