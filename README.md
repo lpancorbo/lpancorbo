@@ -5,7 +5,7 @@ I am a Biomedical Engineering Master's Student at ETH Zürich fully funded by ["
 ## 💼 Practical Experience
 - Graduate Researcher at **Athinoula A. Martinos Center for Biomedical Imaging** (Harvard University & MGH), working on 3D brain MRI reconstruction in Python, extending the [Brain-ID framework](https://github.com/peirong26/Brain-ID) to infer full-brain anatomy from a single hemisphere.
 - Graduate Researcher at the **Mahmood Lab** (Harvard University & BWH), integrating morphological and genetic information using paired histological images and spatial transcriptomics data (Python).
-- Graduate Researcher at the **Multi-Scale Functional & Molecular Imaging Lab** (ETH Zürich), worked in the reconstruction and processing of optoacoustic cardiac data (Python).
+- Graduate Researcher at the **Multi-Scale Functional & Molecular Imaging Lab** (ETH Zürich), worked in the processing and segmentation of optoacoustic cardiac data (Python).
 - Undergraduate Researcher at **EP Analytics Lab** (Polytechnic University of Valencia), developed a metric to quantify the heterogeneity of electrical propagation in cardiac tissue (MATLAB).
 
 ## 🔬 Projects
